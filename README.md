@@ -15,9 +15,9 @@
 * Student `My Courses`
     * Course code, Course name, type, attendance
 
-## TODO (WIP)
-* TimeTable (WIP)
-* Fetch each course Info
-* Attendance details
-* Examination (Results)
-* Faculty feedback automation
+## TODO
+- [ ] TimeTable (WIP)
+- [ ] Fetch each course Info
+- [ ] Attendance details
+- [ ] Examination (Results)
+- [ ] Faculty feedback automation
