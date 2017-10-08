@@ -1,4 +1,4 @@
-# amizone-cli: Command line program for Amizone (Amity University's Intranet Zone)
+## Command line program for Amizone (Amity University's Intranet Zone)
 
 **Project is WIP.**
 
